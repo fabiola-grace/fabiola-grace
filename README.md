@@ -26,34 +26,23 @@ Machine Learning:
 I use this GitHub to share my projects related to Machine Learning and Data Science. Below are some of my key public repositories:
 
 **1. Software-Programming**
-   
-Description: Created a software application (dating application) from scratch until GUI development.
 
-*Tools: Python (NumPy, Pandas, Tkinter for GUI), SQL*
+Created a software application (dating application) from scratch until GUI development. *Tools: Python (NumPy, Pandas, Tkinter for GUI), SQL*
 
 **2. Case-Competition**
-   
-Description: Developed a solution for a business case competition by identifying key features to improve customer retention and provide strategic recommendations.
 
-*Tools: Python (Random Forest, Lasso Regression, Logistic Regression, Feature Engineering, Neural Network)*
+Developed a solution for a business case competition by identifying key features to improve customer retention and provide strategic recommendations. *Tools: Python (Random Forest, Lasso Regression, Logistic Regression, Feature Engineering, Neural Network)*
 
 **3. Case-Competition-DataFest**
-   
-Description: Analyzed student performance for an online textbook platform to help improve student learning experiences. The project involved analyzing chapter difficulties and providing recommendations for platform improvements.
 
-*Tools: R (Clustering, Logistic Regression)*
+Analyzed student performance for an online textbook platform to help improve student learning experiences. The project involved analyzing chapter difficulties and providing recommendations for platform improvements. *Tools: R (Clustering, Logistic Regression)*
 
 **4. Student-Performance-Project**
-   
-Description: Investigated key factors affecting student final grades and developed models to predict student performance.
 
-*Tools: R (Regression, Model Selection, AIC)*
+Investigated key factors affecting student final grades and developed models to predict student performance. *Tools: R (Regression, Model Selection, AIC)*
 
 **5. Hospital-Project**
-
-Description: Conducted research on pediatric pain management, comparing two alternative treatments for their effectiveness.
-
-*Tools: R (T-test, Linear Regression)*
+Conducted research on pediatric pain management, comparing two alternative treatments for their effectiveness. *Tools: R (T-test, Linear Regression)*
 
 
 ## 🌱 What I’m Currently Learning
