@@ -3,16 +3,12 @@
 I'm a Master of Management Analytics candidate at the Rotman School of Management, with a Bachelor’s degree in Statistics and Commerce from the University of British Columbia. My passion lies in leveraging advanced analytics and technology to solve business challenges and drive execution. I have gained valuable experience in Equity Research and Actuarial roles, with extensive technical expertise in financial analysis, risk assessment, data modelling, predictive analytics, and machine learning.
 
 ## 🔧 Technical Expertise
-Programming Languages: Python (Scikit-Learn, PyTorch, Numpy, Pandas, matplotlib), R (Caret, glmnet, RandomForest, XGBoost), SQL, PowerBI, Excel 
+Programming Languages: Python *(Scikit-Learn, PyTorch, Numpy, Pandas, matplotlib)*, R *(Caret, glmnet, RandomForest, XGBoost)*, SQL, PowerBI, Excel 
 
 Machine Learning:
-1. Supervised Learning:
-   
-      - Regression: Linear regression, Lasso and Ridge regression
-      - Classification: KNN, SVM, Logistic regression
+1. Supervised Learning: Regression (Linear regression, Lasso and Ridge regression) and Classification (KNN, SVM, Logistic regression)
       
-2. Unsupervised Learning: 
-      - Clustering (k-means, hierarchical clustering) 
+2. Unsupervised Learning: Clustering (k-means, hierarchical clustering) 
       
 3. Dimension Reduction: PCA and kPCA
     
