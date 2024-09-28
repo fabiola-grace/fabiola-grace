@@ -38,6 +38,7 @@ Analyzed student performance for an online textbook platform to help improve stu
 Investigated key factors affecting student final grades and developed models to predict student performance. *Tools: R (Regression, Model Selection, AIC)*
 
 **5. Hospital-Project**
+
 Conducted research on pediatric pain management, comparing two alternative treatments for their effectiveness. *Tools: R (T-test, Linear Regression)*
 
 
